@@ -1,2 +1,3 @@
-# freecodecamp-backend-projects
-Five annotated Node.js learning projects for freeCodeCamp Back-End Development and APIs, with tests and study guides.
+# freeCodeCamp backend projects
+
+My backend study projects are in [fcc-backend-projects](https://github.com/cabauatanhans47-cyber/fcc-backend-projects). That repository has the five Node.js projects, tests, and setup instructions. This one is just a placeholder.
